@@ -1,6 +1,6 @@
-Name = "subrat"
+Name = "Subrat"
 Age = 12
-Hobby = "coding"
+Hobby = "Soding"
 print(f"My name is {Name}. My age is {Age}. My hobby is {Hobby}.")
 # dynamic type conversion
 x = 10
